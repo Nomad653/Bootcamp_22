@@ -1,1 +1,2 @@
-print("Ikinci fayl")
+print("Ikinci fayl ")
+print("Perviz was here")
